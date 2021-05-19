@@ -1,7 +1,8 @@
+ # DEPENDANCY-INJECTION
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
 
 # BEHAVIOUR DRIVEN DEVELOPMENT
-The project consists of components which are the parent component and the child component files in angular.The child component is responsible for receiving data from a parent component inorder for the project to 
-work.
+ Dependency injection is a design pattern in which a class asks for dependencies from external sources instead of creating them itself. The reason i use dependency injection is because it separates the creation of an object from its usage, which enables us to replace dependencies without changing the class that uses them
 # THE LICENSE
 The app is under mit license.
 
